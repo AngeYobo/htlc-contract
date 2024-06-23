@@ -1,4 +1,4 @@
-## HTLC Contract in Jambhala Framework
+## Haskell HTLC Contract in Jambhala Framework
 
 ### Introduction
 
