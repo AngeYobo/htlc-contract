@@ -152,7 +152,7 @@ getLowerBound txInfo = case ivFrom (txInfoValidRange txInfo) of
 untypedHTLC :: FeeAddress -> OwnerPKH -> UntypedValidator
 untypedHTLC teamAddr ownerPkh = mkUntypedValidator (validatorHTLC teamAddr ownerPkh)
 
-type HTLCValidator = ValidatorContract "jamb-swapTest"
+type HTLCValidator = ValidatorContract "jamb-htlc"
 
 compileHTLCValidator :: FeeAddress -> OwnerPKH -> HTLCValidator
 compileHTLCValidator feeAddr ownerPkh =
