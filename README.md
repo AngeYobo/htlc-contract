@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This HTLC (Hash Time-Locked Contract) implemented using the Jambhala framework. The contract ensures secure and conditional payments based on time constraints and cryptographic hashes. Below, we explain the contract's structure, functionality, and how it integrates with the Jambhala framework.
+This is an HTLC (Hash Time-Locked Contract) implemented using the Jambhala framework. The contract ensures secure and conditional payments based on time constraints and cryptographic hashes. Below, we explain the contract's structure, functionality, and how it integrates with the Jambhala framework.
 
 ### Module and Imports
 
