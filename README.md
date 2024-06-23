@@ -19,7 +19,6 @@ import Plutus.V2.Ledger.Api
 - **Data.Map**: Provides functions for working with maps, used for UTXO management.
 - **Jambhala.Plutus**: Aggregates common Plutus types and functions for contract development.
 - **Jambhala.Utils**: Offers utilities and framework-specific types to simplify contract creation.
-- **Plutus.Contract**: Imports contract-specific functionalities.
 - **Plutus.V2.Ledger.Api**: Contains core Plutus ledger types and functions.
 
 ### Definition of Synonyms
